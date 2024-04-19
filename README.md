@@ -23,7 +23,7 @@ Install dependencies
 Start the server
 
 ```bash
-  yarn start
+    yarn start
 ```
 
 Your website will be running at "http://localhost:3000/"
